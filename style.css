@@ -408,7 +408,7 @@ section .title::after{
     color: crimson;
 }
 
-/* teams section styling */
+/* work section styling */
 .work .title::after{
     content: "Some Of My Work";
 }
